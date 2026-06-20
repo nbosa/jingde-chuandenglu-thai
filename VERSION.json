@@ -1,0 +1,264 @@
+{
+  "schema_version": "1.0",
+  "project": "T2076 景德傳燈錄 Thai Translation",
+  "version": "v0.1.26",
+  "format": "bilingual CN/TH PDF (one file per volume)",
+  "license": "CC0 1.0 Universal",
+  "released_at": "2026-06-20T08:18:13+0700",
+  "source": "CBETA T2076 景德傳燈錄 (deerpark.app)",
+  "translation": "AI-assisted (MiniMax-M3) using 577-entry Zen/Buddhist glossary",
+  "quality": {
+    "judge_version": "v0.1.22",
+    "judge_avg": 4.0,
+    "pass_rate": "100% (807/807 segments)",
+    "vols_excellent": 30,
+    "vols_needs_work": 0
+  },
+  "totals": {
+    "vols": 30,
+    "size_bytes": 27953924,
+    "size_mb": 26.7
+  },
+  "volumes": [
+    {
+      "vol": "vol01",
+      "filename": "T2076_vol01_bilingual.pdf",
+      "sha256": "78adb62173a1852cd39cf9264243c208750118d2918f94dbf97bdc2c097c919e",
+      "sha256_short": "78adb62173a1",
+      "size_bytes": 959400,
+      "size_kb": 936.9
+    },
+    {
+      "vol": "vol02",
+      "filename": "T2076_vol02_bilingual.pdf",
+      "sha256": "4fb1eeed5150d6f812a45024f28ad26d33488435e14e17f5519f8270d8308a42",
+      "sha256_short": "4fb1eeed5150",
+      "size_bytes": 713341,
+      "size_kb": 696.6
+    },
+    {
+      "vol": "vol03",
+      "filename": "T2076_vol03_bilingual.pdf",
+      "sha256": "f4f799d680e0322a2e56eb164efade623d113b2b4caa9c035ffcd4726f0f57ff",
+      "sha256_short": "f4f799d680e0",
+      "size_bytes": 823001,
+      "size_kb": 803.7
+    },
+    {
+      "vol": "vol04",
+      "filename": "T2076_vol04_bilingual.pdf",
+      "sha256": "2963cd205b2887086737c21f1f048c98580b349d5e6a50eabe632b8abc45671f",
+      "sha256_short": "2963cd205b28",
+      "size_bytes": 1079076,
+      "size_kb": 1053.8
+    },
+    {
+      "vol": "vol05",
+      "filename": "T2076_vol05_bilingual.pdf",
+      "sha256": "4b2105c04bf0956813b3cf5ed1f1e5455257e0ab73000a4fa4d78c5cbfc4b26f",
+      "sha256_short": "4b2105c04bf0",
+      "size_bytes": 991622,
+      "size_kb": 968.4
+    },
+    {
+      "vol": "vol06",
+      "filename": "T2076_vol06_bilingual.pdf",
+      "sha256": "f25ceacea000a655e075fbdf96cd9963ffe991a8e7bf1cade811b5e54f226b62",
+      "sha256_short": "f25ceacea000",
+      "size_bytes": 727938,
+      "size_kb": 710.9
+    },
+    {
+      "vol": "vol07",
+      "filename": "T2076_vol07_bilingual.pdf",
+      "sha256": "b1ee3e9c7dfba398fa8a9d0b103596fa093a0b8354481dc5713cb99b7bda2e0b",
+      "sha256_short": "b1ee3e9c7dfb",
+      "size_bytes": 679696,
+      "size_kb": 663.8
+    },
+    {
+      "vol": "vol08",
+      "filename": "T2076_vol08_bilingual.pdf",
+      "sha256": "6d5d89c420d0acd20c2f12aa85be077cea75c3d23e39777d41d3a7f34d2b99ca",
+      "sha256_short": "6d5d89c420d0",
+      "size_bytes": 838395,
+      "size_kb": 818.7
+    },
+    {
+      "vol": "vol09",
+      "filename": "T2076_vol09_bilingual.pdf",
+      "sha256": "ff3a380fe2b41b667360f5b347fbff481b6f3f08ba46c5455f1c3cdd0afb1a6b",
+      "sha256_short": "ff3a380fe2b4",
+      "size_bytes": 947827,
+      "size_kb": 925.6
+    },
+    {
+      "vol": "vol10",
+      "filename": "T2076_vol10_bilingual.pdf",
+      "sha256": "5734b2cbe5ec702c352eed36b5159ba891cccb913a47d9a57fccc64524ee3636",
+      "sha256_short": "5734b2cbe5ec",
+      "size_bytes": 860006,
+      "size_kb": 839.8
+    },
+    {
+      "vol": "vol11",
+      "filename": "T2076_vol11_bilingual.pdf",
+      "sha256": "4048eb8a899309faebc46ba2d4ee3bf2e535793bdf3332b7b39131a37d615657",
+      "sha256_short": "4048eb8a8993",
+      "size_bytes": 874960,
+      "size_kb": 854.5
+    },
+    {
+      "vol": "vol12",
+      "filename": "T2076_vol12_bilingual.pdf",
+      "sha256": "eb69404c04ccb5609f5ce097479bde0bfbaedb76fa825509b67ff8b5f8382cdf",
+      "sha256_short": "eb69404c04cc",
+      "size_bytes": 1077300,
+      "size_kb": 1052.1
+    },
+    {
+      "vol": "vol13",
+      "filename": "T2076_vol13_bilingual.pdf",
+      "sha256": "85c5f9d65398d2266ba665dd030d093f789373bed81b64bcf33fbce2bb18b65f",
+      "sha256_short": "85c5f9d65398",
+      "size_bytes": 881660,
+      "size_kb": 861.0
+    },
+    {
+      "vol": "vol14",
+      "filename": "T2076_vol14_bilingual.pdf",
+      "sha256": "12422f05732a884fc3f78737aab44c8cb770cb3073ff5102bf8cac167e6e74fd",
+      "sha256_short": "12422f05732a",
+      "size_bytes": 880871,
+      "size_kb": 860.2
+    },
+    {
+      "vol": "vol15",
+      "filename": "T2076_vol15_bilingual.pdf",
+      "sha256": "a07ce2a0d35b678ac7c9c51e9f72e6de6216dc5424c318e1bee650afca21bece",
+      "sha256_short": "a07ce2a0d35b",
+      "size_bytes": 923653,
+      "size_kb": 902.0
+    },
+    {
+      "vol": "vol16",
+      "filename": "T2076_vol16_bilingual.pdf",
+      "sha256": "8d4ce47f548294db8845c397decf238161669f738bf43750bfcb2c9c38ee35ac",
+      "sha256_short": "8d4ce47f5482",
+      "size_bytes": 898875,
+      "size_kb": 877.8
+    },
+    {
+      "vol": "vol17",
+      "filename": "T2076_vol17_bilingual.pdf",
+      "sha256": "3d7b8d0563ec99ba481c9a1b79d3f2b65a57a465e4087586b8084eb164ac8efc",
+      "sha256_short": "3d7b8d0563ec",
+      "size_bytes": 971623,
+      "size_kb": 948.9
+    },
+    {
+      "vol": "vol18",
+      "filename": "T2076_vol18_bilingual.pdf",
+      "sha256": "a9a41215eaa337e022bf399df93e4a81b689895012cd99db420dd66e7df76501",
+      "sha256_short": "a9a41215eaa3",
+      "size_bytes": 927939,
+      "size_kb": 906.2
+    },
+    {
+      "vol": "vol19",
+      "filename": "T2076_vol19_bilingual.pdf",
+      "sha256": "6b118b98152fc526004ee8205bcc5dedd3bea4bd42cc436cbedfa541032313f8",
+      "sha256_short": "6b118b98152f",
+      "size_bytes": 813747,
+      "size_kb": 794.7
+    },
+    {
+      "vol": "vol20",
+      "filename": "T2076_vol20_bilingual.pdf",
+      "sha256": "2ff34c1aede4269dc376f00e01bfbaac02a51b8d8a8329fcd81db83154a092d4",
+      "sha256_short": "2ff34c1aede4",
+      "size_bytes": 1001918,
+      "size_kb": 978.4
+    },
+    {
+      "vol": "vol21",
+      "filename": "T2076_vol21_bilingual.pdf",
+      "sha256": "db26ed89c26a951c97fc2ace9dfea20685266a8c842665b76a2ea8c92d6c07d9",
+      "sha256_short": "db26ed89c26a",
+      "size_bytes": 986000,
+      "size_kb": 962.9
+    },
+    {
+      "vol": "vol22",
+      "filename": "T2076_vol22_bilingual.pdf",
+      "sha256": "75cbc3cbfe5e4da03451b38953bd10609a1896b6de6449b4c2a2730407d77c72",
+      "sha256_short": "75cbc3cbfe5e",
+      "size_bytes": 857795,
+      "size_kb": 837.7
+    },
+    {
+      "vol": "vol23",
+      "filename": "T2076_vol23_bilingual.pdf",
+      "sha256": "6c4fa079ddad070573ce2bbf6b10c0f6b9c25e6dedccfb2a9e911484b67ee08c",
+      "sha256_short": "6c4fa079ddad",
+      "size_bytes": 965593,
+      "size_kb": 943.0
+    },
+    {
+      "vol": "vol24",
+      "filename": "T2076_vol24_bilingual.pdf",
+      "sha256": "689e2054444e757307d748f5d52fea27eb6d76d47db18a2889c3a7247fcc5ee9",
+      "sha256_short": "689e2054444e",
+      "size_bytes": 1011422,
+      "size_kb": 987.7
+    },
+    {
+      "vol": "vol25",
+      "filename": "T2076_vol25_bilingual.pdf",
+      "sha256": "d3acb86788cdb009a5b56641bf2b4ff597d6b79f7d07ed62df36b4d7b3edbf24",
+      "sha256_short": "d3acb86788cd",
+      "size_bytes": 1144196,
+      "size_kb": 1117.4
+    },
+    {
+      "vol": "vol26",
+      "filename": "T2076_vol26_bilingual.pdf",
+      "sha256": "c7b9b21b630ffd1453bb979807b98ce15e9630b49cdf4e4353be1447c3ad9874",
+      "sha256_short": "c7b9b21b630f",
+      "size_bytes": 1104012,
+      "size_kb": 1078.1
+    },
+    {
+      "vol": "vol27",
+      "filename": "T2076_vol27_bilingual.pdf",
+      "sha256": "5506a2781422be5a0e759b58abd9b376ae3aef06735ac1abfafc206575ec015d",
+      "sha256_short": "5506a2781422",
+      "size_bytes": 886471,
+      "size_kb": 865.7
+    },
+    {
+      "vol": "vol28",
+      "filename": "T2076_vol28_bilingual.pdf",
+      "sha256": "1aa1eeba64bda6670cde1ea379b07c990f8b32981ff569443a6561074c9582b5",
+      "sha256_short": "1aa1eeba64bd",
+      "size_bytes": 1107846,
+      "size_kb": 1081.9
+    },
+    {
+      "vol": "vol29",
+      "filename": "T2076_vol29_bilingual.pdf",
+      "sha256": "02788054093af5b533e4f431404e080b9e854a721dce4d3696885e2abe063700",
+      "sha256_short": "02788054093a",
+      "size_bytes": 841480,
+      "size_kb": 821.8
+    },
+    {
+      "vol": "vol30",
+      "filename": "T2076_vol30_bilingual.pdf",
+      "sha256": "a21139cad586e5f80234c35be260c3b57e290a46a25f61a4a5223aab08a59a05",
+      "sha256_short": "a21139cad586",
+      "size_bytes": 1176261,
+      "size_kb": 1148.7
+    }
+  ]
+}
